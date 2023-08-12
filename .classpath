@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arvasis/OneDrive/Belgeler/Projects/CommonFiles/lib/alcybe_computation_engine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arvasis/OneDrive/Belgeler/Projects/CommonFiles/lib/alcybe_license_agent.jar"/>
+	<classpathentry kind="lib" path="jenetics.ext-7.1.0.jar"/>
+	<classpathentry kind="lib" path="jenetics.prog-7.1.0.jar"/>
+	<classpathentry kind="lib" path="jenetics.xml-7.1.0.jar"/>
+	<classpathentry kind="lib" path="jenetics-7.1.0.jar"/>
+	<classpathentry kind="lib" path="jscience-4.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
